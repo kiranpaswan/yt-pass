@@ -20,7 +20,7 @@ This repo stores the channel's short videos (`videos/`). Every new video must fo
 - Vary the formats and styles from video to video. YouTube can demonetize channels that mass-produce near-identical templated videos ("inauthentic content").
 
 ## Formats (rotate: never the same format two days in a row)
-Each day, pick the next format in this order, continuing from the last video in the README table:
+Each day, pick the next format in this order, continuing from the last video in the README table, and skip any format used in the last 3 videos (after 9, wrap around to 1):
 1. **Universe battle / "Who would win"** with characters from `characters.md` (or absurd matchups like "1 million chickens vs 1 gorilla"). End with "Comment who fights next". Log it in `series.md`.
 2. **Cursed "facts" explained dead seriously:** deep documentary voice (`am_onyx` or `am_fenrir`), obviously fictional lore ("The pigeon was invented in 1987"). Must be clearly absurd. Never about real people, real tragedies, health, elections or anything a viewer could believe and act on. Description says "100% real facts (not real)".
 3. **POV first-person comedy:** "POV: you are the last chicken nugget in the box", "POV: you are the Wi-Fi at grandma's house".
