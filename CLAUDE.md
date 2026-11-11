@@ -40,4 +40,4 @@ This repo stores the channel's short videos (`videos/`). Every new video must fo
 - Title (under 60 characters, curiosity-driven, no clickbait lies).
 - Description (2 lines, 3 to 5 hashtags including #shorts).
 - Suggested upload time: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern).
-- Add the video to `videos/` and a row to the table in `README.md`.
+- Add the video to `videos/`, thumbnails (vertical 1080x1920 + 16:9 1280x720) to `thumbnails/`, an upload file (title, description, settings) to `uploads/`, and a row to the table in `README.md`.
