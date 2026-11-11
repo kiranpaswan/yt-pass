@@ -33,6 +33,17 @@ Each day, pick the next format in this order, continuing from the last video in 
 
 Character universe: `characters.md`. Running series: `series.md`.
 
+## Growth rules (goal: subscribers and watch time)
+- **Style per format:** 3D world (engine in `sources/manhole3d/`) for format 8 and for big "who would win" finals; 2D stick-figure engine for everything else (richer acting, fast).
+- **First second decides everything:** open on the most extreme moment of the video (the crash, the punchline image), with a 2 to 4 word on-screen title for the first 1.5 s. Never open on a calm establishing shot or a logo.
+- **Loop it:** write the last line so it flows back into the first line, so the Short replays seamlessly (rewatches count as watch time).
+- **Length:** 20 to 35 s is the sweet spot; cut any line that doesn't push the story.
+- **Recurring characters and series build subscribers:** use `characters.md` characters in most videos; series videos end with "Part N+1 tomorrow" on screen (no begging for subscriptions anywhere else).
+- **Comments:** every upload file includes a **pinned comment** that asks a question viewers want to answer ("Who wins: Toastzilla or Microwave Monk?").
+- **Playlists:** every upload file names a playlist ("Who Would Win", "Cursed Facts", "The Kitchen Wars", "Why Is It Like That?", "What If", "POV", "Quizzes", "Rated").
+- **Related video:** every upload file says which long video or Short to link as the Short's "Related video" (the newest weekly compilation, or Part N-1 for series).
+- **Weekly compilation (Sundays):** the week's Shorts joined into one long video (16:9, blurred background), so watch hours also count toward the long-video monetization path.
+
 ## Animation quality (required on every video)
 - **Lip sync from the voice:** mouth opening follows the voiceover loudness (amplitude envelope), never a timer toggling between two shapes.
 - **Characters never stand still:** idle breathing/bob, random blinks, head tilts, and a hand gesture on stressed words.
