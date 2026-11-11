@@ -19,6 +19,17 @@ This repo stores the channel's short videos (`videos/`). Every new video must fo
 - Original characters, scripts, and jokes only. No copyrighted characters, music, or existing memes' mascots.
 - Vary the formats and styles from video to video. YouTube can demonetize channels that mass-produce near-identical templated videos ("inauthentic content").
 
+## Animation quality (required on every video)
+- **Lip sync from the voice:** mouth opening follows the voiceover loudness (amplitude envelope), never a timer toggling between two shapes.
+- **Characters never stand still:** idle breathing/bob, random blinks, head tilts, and a hand gesture on stressed words.
+- **Hits land on the body:** anticipation before, squash and stretch on impact, recoil after, plus screen shake and flash.
+- **Physical comedy is shown, not implied:** if a character bonks a door, he walks into it; if an object wins, it acts on him.
+- **Visible stakes:** show the "meter" (IQ, money, health) on the character too, e.g. a brain above the head that shrinks or cracks.
+- **Varied locations:** at least 3 different settings per video (bedroom, school hallway, kitchen, street, store...), with background characters reacting where it fits. Do not reuse one room in different colours.
+- **Hands are drawn as hands** (palm + fingers) when touching the face or holding things.
+- Before the full render, show still frames of the busiest moments and fix them.
+- Render at 1080x1920, 30 fps (fast to iterate); the 1440x2560 / 60 fps upgrade only if asked.
+
 ## Topics that travel well in the US
 - "What if" absurd hypotheticals (school, money, phones, food, sleep).
 - Relatable school / work / gaming / internet life.
