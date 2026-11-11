@@ -19,6 +19,20 @@ This repo stores the channel's short videos (`videos/`). Every new video must fo
 - Original characters, scripts, and jokes only. No copyrighted characters, music, or existing memes' mascots.
 - Vary the formats and styles from video to video. YouTube can demonetize channels that mass-produce near-identical templated videos ("inauthentic content").
 
+## Formats (rotate: never the same format two days in a row)
+Each day, pick the next format in this order, continuing from the last video in the README table:
+1. **Universe battle / "Who would win"** with characters from `characters.md` (or absurd matchups like "1 million chickens vs 1 gorilla"). End with "Comment who fights next". Log it in `series.md`.
+2. **Cursed "facts" explained dead seriously:** deep documentary voice (`am_onyx` or `am_fenrir`), obviously fictional lore ("The pigeon was invented in 1987"). Must be clearly absurd. Never about real people, real tragedies, health, elections or anything a viewer could believe and act on. Description says "100% real facts (not real)".
+3. **POV first-person comedy:** "POV: you are the last chicken nugget in the box", "POV: you are the Wi-Fi at grandma's house".
+4. **Brain rot quiz:** "Only 1% can find the odd one out", "Which door do you pick". Answer revealed at the end, loopable, correct answers only.
+5. **Soap opera episode** "Zero IQ Club: The Kitchen Wars, Part N": continues the story in `series.md`, ends on a cliffhanger, update the log.
+6. **Rating things on a scale that makes no sense:** "rating fruits by how likely they are to commit tax fraud". Never mock real nationalities, ethnicities or religions.
+7. **Original storytime split-screen:** our own written absurd story on top, our own animation underneath (a looping animated mini-game or satisfying animation we render ourselves). Never use game footage, other people's clips or stolen Reddit stories.
+8. **"Why is X shaped/made like that?" story explainer:** a real fact told as a mini drama with a rival and a twist (like the manhole video). Facts checked against sources.
+9. **"What if" hypothetical** (like the bro / like videos).
+
+Character universe: `characters.md`. Running series: `series.md`.
+
 ## Animation quality (required on every video)
 - **Lip sync from the voice:** mouth opening follows the voiceover loudness (amplitude envelope), never a timer toggling between two shapes.
 - **Characters never stand still:** idle breathing/bob, random blinks, head tilts, and a hand gesture on stressed words.
