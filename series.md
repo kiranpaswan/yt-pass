@@ -14,4 +14,4 @@ Each fight ends with "Comment who fights next". Next fight = the most-requested 
 
 | Fight | Matchup | Winner | How |
 |---|---|---|---|
-| (none yet) | | | |
+| 1 | Sir Nugget Von Crunch vs Toastzilla | Sir Nugget | Took the first toast missile, healed in ranch, dodged two shots until Toastzilla overheated, then hit his off switch with the toothpick. Cliffhanger: a ketchup bottle appears (his fear) and Toastzilla reboots. |
