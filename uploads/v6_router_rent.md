@@ -1,6 +1,6 @@
 # Upload: Storytime: My Wi-Fi Router Started Charging Me Rent
 
-- **Video:** [videos/v6_router_rent.mp4](../videos/v6_router_rent.mp4) (3 s)
+- **Video:** [videos/v6_router_rent.mp4](../videos/v6_router_rent.mp4) (33 s)
 - **Thumbnail:** [vertical](../thumbnails/v6_router_rent_vertical.png) · [16:9](../thumbnails/v6_router_rent_16x9.png)
 - **Format:** Original storytime split-screen (2D)
 
