@@ -197,3 +197,28 @@ Whose side is Microwave Monk on?? 🤔 Comment your theory 👇
 Playlist: The Kitchen Wars · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 9. Rating Fruits by How Likely They Are to Commit Tax Fraud
+
+Video: [videos/v5_fruit_tax_fraud.mp4](videos/v5_fruit_tax_fraud.mp4) · Thumbnails: [vertical](thumbnails/v5_fruit_tax_fraud_vertical.png), [16:9](thumbnails/v5_fruit_tax_fraud_16x9.png)
+
+**Title**
+```
+Rating Fruits by Tax Fraud Risk 🍍💸
+```
+
+**Description**
+```
+The pineapple owns an island. The grapes share one address. The watermelon is just water. 🍉
+Which fruit is the most suspicious?
+#shorts #funny #animation #fruit #rating
+```
+
+**Pinned comment**
+```
+Which fruit would YOU never trust with money? 🍍👇
+```
+
+Playlist: Rated · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
