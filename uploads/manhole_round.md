@@ -15,6 +15,13 @@ A square cover can slip through its own hole. A circle never can. 🤯
 #shorts #engineering #didyouknow #animation #funny
 ```
 
+**Pinned comment**
+```
+Did you know this? 🤯 What everyday thing should we explain next? 👇
+```
+
+**Playlist:** Why Is It Like That?
+
 **Settings**
 - Audience: No, it's not made for kids
 - Altered or synthetic content: No (obvious cartoon)

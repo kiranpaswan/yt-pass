@@ -2,6 +2,8 @@
 
 Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 
+**Copy-paste titles, descriptions and pinned comments for every video: [DESCRIPTIONS.md](DESCRIPTIONS.md)**
+
 | Video | Format | Topic | Length | Thumbnail | Upload info |
 |---|---|---|---|---|---|
 | [bro_iq.mp4](videos/bro_iq.mp4) | What if | What if every time you said "bro", you lost one IQ point? | 33 s | [vertical](thumbnails/bro_iq_vertical.png) | [title + description](uploads/bro_iq.md) |

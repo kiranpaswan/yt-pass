@@ -14,6 +14,13 @@ It was, like, crazy. Like, we went to the mall, and like... 💀
 #shorts #whatif #school #funny #animation
 ```
 
+**Pinned comment**
+```
+What would your GPA be right now? 📉 Mine is like... negative 👇
+```
+
+**Playlist:** What If
+
 **Settings**
 - Audience: No, it's not made for kids
 - Altered or synthetic content: No (obvious cartoon)

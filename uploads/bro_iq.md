@@ -14,6 +14,13 @@ By lunch your IQ is lower than your phone battery. 🪫
 #shorts #whatif #funny #bro #animation
 ```
 
+**Pinned comment**
+```
+How many times did YOU say "bro" today? Be honest 💀👇
+```
+
+**Playlist:** What If
+
 **Settings**
 - Audience: No, it's not made for kids
 - Altered or synthetic content: No (obvious cartoon)
