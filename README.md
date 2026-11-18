@@ -15,6 +15,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v3_quiz_toastzilla.mp4](videos/v3_quiz_toastzilla.mp4) | Quiz | Quiz: Only 1% Can Find the Odd Toastzilla | 29 s | [vertical](thumbnails/v3_quiz_toastzilla_vertical.png) | [title + description](uploads/v3_quiz_toastzilla.md) |
 | [v4_kitchen_wars_1.mp4](videos/v4_kitchen_wars_1.mp4) | Soap opera episode | The Kitchen Wars, Part 1 | 22 s | [vertical](thumbnails/v4_kitchen_wars_1_vertical.png) | [title + description](uploads/v4_kitchen_wars_1.md) |
 | [v5_fruit_tax_fraud.mp4](videos/v5_fruit_tax_fraud.mp4) | Rating on a scale that makes no sense | Rating Fruits by How Likely They Are to Commit Tax Fraud | 24 s | [vertical](thumbnails/v5_fruit_tax_fraud_vertical.png) | [title + description](uploads/v5_fruit_tax_fraud.md) |
+| [v6_router_rent.mp4](videos/v6_router_rent.mp4) | Original storytime split-screen | Storytime: My Wi-Fi Router Started Charging Me Rent | 3 s | [vertical](thumbnails/v6_router_rent_vertical.png) | [title + description](uploads/v6_router_rent.md) |
 
 ## Channel
 - Name: **Zero IQ Club**

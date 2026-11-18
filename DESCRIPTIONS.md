@@ -222,3 +222,28 @@ Which fruit would YOU never trust with money? 🍍👇
 Playlist: Rated · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 10. Storytime: My Wi-Fi Router Started Charging Me Rent
+
+Video: [videos/v6_router_rent.mp4](videos/v6_router_rent.mp4) · Thumbnails: [vertical](thumbnails/v6_router_rent_vertical.png), [16:9](thumbnails/v6_router_rent_16x9.png)
+
+**Title**
+```
+My Wi-Fi Router Started Charging Me Rent 📶💸
+```
+
+**Description**
+```
+$1 a month was fine. Then it was $5 per video. Then grandma got involved. 💀
+Original story, satisfying bounce on the bottom.
+#shorts #storytime #funny #satisfying #wifi
+```
+
+**Pinned comment**
+```
+How much would YOUR router charge you? 📶👇
+```
+
+Playlist: Storytime · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
