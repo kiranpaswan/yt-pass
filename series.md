@@ -1,5 +1,7 @@
 # Running series log
 
+NEXT UP: The Kitchen Wars, Part 2 (Part 1 airs Tue 24 Nov and promises "Part 2 tomorrow", so Part 2 must be ready for Wed 25 Nov). Continue from Part 1's cliffhanger: whose side is Microwave Monk on?
+
 Update this file every time a series episode is published, so the next episode continues the story.
 
 ## Soap opera: "Zero IQ Club: The Kitchen Wars"
