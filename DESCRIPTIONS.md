@@ -247,3 +247,28 @@ How much would YOUR router charge you? 📶👇
 Playlist: Storytime · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 11. Why Are School Buses Yellow?
+
+Video: [videos/v7_bus_yellow.mp4](videos/v7_bus_yellow.mp4) · Thumbnails: [vertical](thumbnails/v7_bus_yellow_vertical.png), [16:9](thumbnails/v7_bus_yellow_16x9.png)
+
+**Title**
+```
+Why School Buses Are Yellow (Not Red) 🚌
+```
+
+**Description**
+```
+In 1939, buses were every color, and red ones vanished at sunset. One professor fixed it with a wall of paint chips. 🎨
+National School Bus Chrome is easy to spot at dawn and dusk.
+#shorts #didyouknow #history #schoolbus #animation
+```
+
+**Pinned comment**
+```
+What everyday thing should we explain next? 🤔👇
+```
+
+Playlist: Why Is It Like That? · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
