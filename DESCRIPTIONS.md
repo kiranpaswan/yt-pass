@@ -147,3 +147,28 @@ Be honest... would you still eat it? 🍗👇
 Playlist: POV · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 7. Quiz: Only 1% Can Find the Odd Toastzilla
+
+Video: [videos/v3_quiz_toastzilla.mp4](videos/v3_quiz_toastzilla.mp4) · Thumbnails: [vertical](thumbnails/v3_quiz_toastzilla_vertical.png), [16:9](thumbnails/v3_quiz_toastzilla_16x9.png)
+
+**Title**
+```
+Only 1% Can Find the Odd One Out 🔍
+```
+
+**Description**
+```
+3 rounds. 3 seconds each. Round 3 breaks everyone. 🧠
+Comment your score out of 3!
+#shorts #quiz #puzzle #brainteaser #spotthedifference
+```
+
+**Pinned comment**
+```
+Be honest: what was your score? 1/3, 2/3 or a perfect 3/3? 🧠👇
+```
+
+Playlist: Quizzes · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---

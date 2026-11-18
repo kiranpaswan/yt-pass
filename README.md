@@ -12,6 +12,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [fight1_nugget_vs_toastzilla.mp4](videos/fight1_nugget_vs_toastzilla.mp4) | Who would win | Fight 1: Sir Nugget Von Crunch vs Toastzilla | 28 s | [vertical](thumbnails/fight1_nugget_vs_toastzilla_vertical.png) | [title + description](uploads/fight1_nugget_vs_toastzilla.md) |
 | [v1_wifi_facts.mp4](videos/v1_wifi_facts.mp4) | Cursed facts | 100% Real Facts About Wi-Fi (Not Real) | 30 s | [vertical](thumbnails/v1_wifi_facts_vertical.png) | [title + description](uploads/v1_wifi_facts.md) |
 | [v2_pov_nugget.mp4](videos/v2_pov_nugget.mp4) | POV | POV: You're the Last Chicken Nugget in the Box | 22 s | [vertical](thumbnails/v2_pov_nugget_vertical.png) | [title + description](uploads/v2_pov_nugget.md) |
+| [v3_quiz_toastzilla.mp4](videos/v3_quiz_toastzilla.mp4) | Quiz | Quiz: Only 1% Can Find the Odd Toastzilla | 29 s | [vertical](thumbnails/v3_quiz_toastzilla_vertical.png) | [title + description](uploads/v3_quiz_toastzilla.md) |
 
 ## Channel
 - Name: **Zero IQ Club**
