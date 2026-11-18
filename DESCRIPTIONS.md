@@ -172,3 +172,28 @@ Be honest: what was your score? 1/3, 2/3 or a perfect 3/3? 🧠👇
 Playlist: Quizzes · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 8. The Kitchen Wars, Part 1
+
+Video: [videos/v4_kitchen_wars_1.mp4](videos/v4_kitchen_wars_1.mp4) · Thumbnails: [vertical](thumbnails/v4_kitchen_wars_1_vertical.png), [16:9](thumbnails/v4_kitchen_wars_1_16x9.png)
+
+**Title**
+```
+The Kitchen Wars: Part 1 🍅🔥
+```
+
+**Description**
+```
+Toastzilla lost. Now he made a deal with Ketchup. And Microwave Monk heard everything. 👀
+Part 2 tomorrow.
+#shorts #animation #drama #zeroiqclub #funny
+```
+
+**Pinned comment**
+```
+Whose side is Microwave Monk on?? 🤔 Comment your theory 👇
+```
+
+Playlist: The Kitchen Wars · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---

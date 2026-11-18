@@ -7,7 +7,7 @@ Numbered Part 1, Part 2, ... Each part 20 to 40 s, ends on a cliffhanger, starts
 
 | Part | What happened | Cliffhanger |
 |---|---|---|
-| (none yet) | | |
+| 1 | After losing Fight 1, Toastzilla reboots at night and makes a deal with Ketchup (Sir Nugget's fear) to "sauce" the nugget tomorrow. Microwave Monk secretly overhears. | Monk is Sir Nugget's best friend... or is he? Their BEST FRIENDS photo cracks and Monk smirks. |
 
 ## Tournament: "Who would win"
 Each fight ends with "Comment who fights next". Next fight = the most-requested matchup if the creator writes it here, otherwise pick one.

@@ -16,6 +16,7 @@ Voices are Kokoro voices; keep each character's voice the same in every video.
 | 8 | **Microwave Monk** | A meditating microwave with a calm face on the door | `am_liam` | 30-second countdown that heats anything to lava | Wise, slow, says "ding" instead of "amen" |
 | 9 | **Bubble Wrap Baby** | A toddler made of bubble wrap | `af_sky` | Every pop is a sonic boom | Chaotic, unbreakable, laughs at everything |
 | 10 | **Captain Cornhole** | A corn cob pirate sailing a cornhole board | `am_santa` (jolly) | Kernel cannon: pops a storm of popcorn | Loud, loyal, cannot aim |
+| 11 | **Ketchup** | A squeeze bottle with attitude, lives in the fridge door | `af_bella` | One squirt and any nugget is "sauced" | Smug schemer, Sir Nugget's greatest fear |
 
 ## Rivalries and storylines to reuse
 - **Toastzilla vs Microwave Monk:** the Kitchen Appliance War.
