@@ -97,3 +97,28 @@ Who should fight next? 🥊 Toastzilla wants a rematch... or should Microwave Mo
 Playlist: Who Would Win · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 5. 100% Real Facts About Wi-Fi (Not Real)
+
+Video: [videos/v1_wifi_facts.mp4](videos/v1_wifi_facts.mp4) · Thumbnails: [vertical](thumbnails/v1_wifi_facts_vertical.png), [16:9](thumbnails/v1_wifi_facts_16x9.png)
+
+**Title**
+```
+100% Real Facts About Your Wi-Fi (not real) 📶
+```
+
+**Description**
+```
+Your Wi-Fi runs on a tiny man named Gary. Restarting the router is just his vacation. 💀
+100% real facts (not real).
+#shorts #wifi #funny #animation #cursedfacts
+```
+
+**Pinned comment**
+```
+Which fact do you believe the most? 👀 Gary says hi 🐹👇
+```
+
+Playlist: Cursed Facts · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
