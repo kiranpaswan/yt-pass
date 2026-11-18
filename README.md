@@ -19,6 +19,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v5_fruit_tax_fraud.mp4](videos/v5_fruit_tax_fraud.mp4) | Rating on a scale that makes no sense | Rating Fruits by How Likely They Are to Commit Tax Fraud | 24 s | [vertical](thumbnails/v5_fruit_tax_fraud_vertical.png) | [title + description](uploads/v5_fruit_tax_fraud.md) |
 | [v6_router_rent.mp4](videos/v6_router_rent.mp4) | Original storytime split-screen | Storytime: My Wi-Fi Router Started Charging Me Rent | 3 s | [vertical](thumbnails/v6_router_rent_vertical.png) | [title + description](uploads/v6_router_rent.md) |
 | [v7_bus_yellow.mp4](videos/v7_bus_yellow.mp4) | Why is X shaped/made like that | Why Are School Buses Yellow? | 35 s | [vertical](thumbnails/v7_bus_yellow_vertical.png) | [title + description](uploads/v7_bus_yellow.md) |
+| [v8_kitchen_wars_2.mp4](videos/v8_kitchen_wars_2.mp4) | Soap opera episode | The Kitchen Wars, Part 2 | 27 s | [vertical](thumbnails/v8_kitchen_wars_2_vertical.png) | [title + description](uploads/v8_kitchen_wars_2.md) |
 
 ## Channel
 - Name: **Zero IQ Club**

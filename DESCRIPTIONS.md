@@ -272,3 +272,28 @@ What everyday thing should we explain next? 🤔👇
 Playlist: Why Is It Like That? · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 12. The Kitchen Wars, Part 2
+
+Video: [videos/v8_kitchen_wars_2.mp4](videos/v8_kitchen_wars_2.mp4) · Thumbnails: [vertical](thumbnails/v8_kitchen_wars_2_vertical.png), [16:9](thumbnails/v8_kitchen_wars_2_16x9.png)
+
+**Title**
+```
+The Kitchen Wars: Part 2 🍗🔥
+```
+
+**Description**
+```
+The ambush was ready. Then the microwave said "Ding." Saved... or about to be cooked? 👀
+Part 3 tomorrow.
+#shorts #animation #drama #zeroiqclub #funny
+```
+
+**Pinned comment**
+```
+Is Microwave Monk saving Sir Nugget... or cooking him? 🍗🔥👇
+```
+
+Playlist: The Kitchen Wars · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
