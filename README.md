@@ -20,6 +20,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v6_router_rent.mp4](videos/v6_router_rent.mp4) | Original storytime split-screen | Storytime: My Wi-Fi Router Started Charging Me Rent | 3 s | [vertical](thumbnails/v6_router_rent_vertical.png) | [title + description](uploads/v6_router_rent.md) |
 | [v7_bus_yellow.mp4](videos/v7_bus_yellow.mp4) | Why is X shaped/made like that | Why Are School Buses Yellow? | 35 s | [vertical](thumbnails/v7_bus_yellow_vertical.png) | [title + description](uploads/v7_bus_yellow.md) |
 | [v8_kitchen_wars_2.mp4](videos/v8_kitchen_wars_2.mp4) | Soap opera episode | The Kitchen Wars, Part 2 | 27 s | [vertical](thumbnails/v8_kitchen_wars_2_vertical.png) | [title + description](uploads/v8_kitchen_wars_2.md) |
+| [v9_kitchen_wars_3.mp4](videos/v9_kitchen_wars_3.mp4) | Soap opera episode | The Kitchen Wars, Part 3 (Finale) | 29 s | [vertical](thumbnails/v9_kitchen_wars_3_vertical.png) | [title + description](uploads/v9_kitchen_wars_3.md) |
 
 ## Channel
 - Name: **Zero IQ Club**

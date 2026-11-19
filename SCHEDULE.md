@@ -15,3 +15,4 @@ Titles, descriptions and pinned comments to copy: [DESCRIPTIONS.md](DESCRIPTIONS
 
 **Why this order:** different formats every day; Part 1 goes last because it ends with "Part 2 tomorrow", and the daily run makes Part 2 first (see `series.md`, NEXT UP), ready for Wed 25 Nov.
 Fight 1 (Sir Nugget vs Toastzilla) should go out before Part 1, which continues its story; if it is not online yet, publish it today or tomorrow.
+| Thu 26 Nov | [v9_kitchen_wars_3.mp4](videos/v9_kitchen_wars_3.mp4) | Soap opera (finale) | The Kitchen Wars: Part 3 (Finale) 🍗✨ |
