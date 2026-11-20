@@ -322,3 +322,28 @@ Did you trust Microwave Monk the whole time? 🤔 Who should start the next Kitc
 Playlist: The Kitchen Wars · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 14. Rating School Supplies by How Likely They Are to Betray You
+
+Video: [videos/v10_school_betrayal.mp4](videos/v10_school_betrayal.mp4) · Thumbnails: [vertical](thumbnails/v10_school_betrayal_vertical.png), [16:9](thumbnails/v10_school_betrayal_16x9.png)
+
+**Title**
+```
+Rating School Supplies by Betrayal 📏💀
+```
+
+**Description**
+```
+The pencil snaps. The highlighter dies mid-sentence. The calculator quits during the final. 💀
+Only the eraser has your back.
+#shorts #school #relatable #funny #animation
+```
+
+**Pinned comment**
+```
+Which school supply betrayed YOU the most? ✏️👇
+```
+
+Playlist: Rated · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---

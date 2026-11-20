@@ -21,6 +21,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v7_bus_yellow.mp4](videos/v7_bus_yellow.mp4) | Why is X shaped/made like that | Why Are School Buses Yellow? | 35 s | [vertical](thumbnails/v7_bus_yellow_vertical.png) | [title + description](uploads/v7_bus_yellow.md) |
 | [v8_kitchen_wars_2.mp4](videos/v8_kitchen_wars_2.mp4) | Soap opera episode | The Kitchen Wars, Part 2 | 27 s | [vertical](thumbnails/v8_kitchen_wars_2_vertical.png) | [title + description](uploads/v8_kitchen_wars_2.md) |
 | [v9_kitchen_wars_3.mp4](videos/v9_kitchen_wars_3.mp4) | Soap opera episode | The Kitchen Wars, Part 3 (Finale) | 29 s | [vertical](thumbnails/v9_kitchen_wars_3_vertical.png) | [title + description](uploads/v9_kitchen_wars_3.md) |
+| [v10_school_betrayal.mp4](videos/v10_school_betrayal.mp4) | Rating on a scale that makes no sense | Rating School Supplies by How Likely They Are to Betray You | 27 s | [vertical](thumbnails/v10_school_betrayal_vertical.png) | [title + description](uploads/v10_school_betrayal.md) |
 
 ## Channel
 - Name: **Zero IQ Club**
