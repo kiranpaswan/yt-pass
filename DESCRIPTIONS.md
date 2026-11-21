@@ -347,3 +347,28 @@ Which school supply betrayed YOU the most? ✏️👇
 Playlist: Rated · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 15. My Dog Got His Own Credit Card (storytime + plinko)
+
+Video: [videos/v11_dog_credit.mp4](videos/v11_dog_credit.mp4) · Thumbnails: [vertical](thumbnails/v11_dog_credit_vertical.png), [16:9](thumbnails/v11_dog_credit_16x9.png)
+
+**Title**
+```
+My Dog Got His Own Credit Card 🐶💳
+```
+
+**Description**
+```
+First he bought 400 tennis balls. Then a chicken every day. Now his credit score beats my mom's. 🐶
+Original animated story, totally made up.
+#shorts #storytime #dog #funny #animation
+```
+
+**Pinned comment**
+```
+What would YOUR pet buy first with a credit card? 🐾👇
+```
+
+Playlist: Storytime · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
