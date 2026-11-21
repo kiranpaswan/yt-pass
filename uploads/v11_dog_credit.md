@@ -23,7 +23,7 @@ What would YOUR pet buy first with a credit card? 🐾👇
 
 **Playlist:** Storytime
 
-**Related video:** POV: You Are the Router (uploads/v6_router_rent.md)
+**Related video:** Storytime: My Wi-Fi Router Started Charging Me Rent (uploads/v6_router_rent.md)
 
 **Settings**
 - Audience: No, it's not made for kids

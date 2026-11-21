@@ -17,3 +17,4 @@ Titles, descriptions and pinned comments to copy: [DESCRIPTIONS.md](DESCRIPTIONS
 Fight 1 (Sir Nugget vs Toastzilla) should go out before Part 1, which continues its story; if it is not online yet, publish it today or tomorrow.
 | Thu 26 Nov | [v9_kitchen_wars_3.mp4](videos/v9_kitchen_wars_3.mp4) | Soap opera (finale) | The Kitchen Wars: Part 3 (Finale) 🍗✨ |
 | Fri 27 Nov | [v10_school_betrayal.mp4](videos/v10_school_betrayal.mp4) | Rating | Rating School Supplies by Betrayal 📏💀 |
+| Sat 28 Nov | [v11_dog_credit.mp4](videos/v11_dog_credit.mp4) | Storytime split-screen | My Dog Got His Own Credit Card 🐶💳 |
