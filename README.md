@@ -23,6 +23,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v9_kitchen_wars_3.mp4](videos/v9_kitchen_wars_3.mp4) | Soap opera episode | The Kitchen Wars, Part 3 (Finale) | 29 s | [vertical](thumbnails/v9_kitchen_wars_3_vertical.png) | [title + description](uploads/v9_kitchen_wars_3.md) |
 | [v10_school_betrayal.mp4](videos/v10_school_betrayal.mp4) | Rating on a scale that makes no sense | Rating School Supplies by How Likely They Are to Betray You | 27 s | [vertical](thumbnails/v10_school_betrayal_vertical.png) | [title + description](uploads/v10_school_betrayal.md) |
 | [v11_dog_credit.mp4](videos/v11_dog_credit.mp4) | Storytime split-screen | My Dog Got His Own Credit Card (storytime + plinko) | 23 s | [vertical](thumbnails/v11_dog_credit_vertical.png) | [title + description](uploads/v11_dog_credit.md) |
+| [v12_stop_sign.mp4](videos/v12_stop_sign.mp4) | Why is X shaped/made like that | Why Are Stop Signs Octagons (and Why Were They Yellow?) | 33 s | [vertical](thumbnails/v12_stop_sign_vertical.png) | [title + description](uploads/v12_stop_sign.md) |
 
 ## Channel
 - Name: **Zero IQ Club**

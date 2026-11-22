@@ -372,3 +372,28 @@ What would YOUR pet buy first with a credit card? 🐾👇
 Playlist: Storytime · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 16. Why Are Stop Signs Octagons (and Why Were They Yellow?)
+
+Video: [videos/v12_stop_sign.mp4](videos/v12_stop_sign.mp4) · Thumbnails: [vertical](thumbnails/v12_stop_sign_vertical.png), [16:9](thumbnails/v12_stop_sign_16x9.png)
+
+**Title**
+```
+Stop Signs Used to Be Yellow?! 🛑
+```
+
+**Description**
+```
+In the 1920s, a sign's shape was a danger ranking: more sides, more danger. The octagon got STOP, but stayed yellow until 1954 because red paint faded in the sun. 🛑
+The circle still guards railroad crossings in yellow today.
+#shorts #didyouknow #history #stopsign #animation
+```
+
+**Pinned comment**
+```
+Did you know stop signs used to be yellow? 🤯 What everyday thing should we explain next? 👇
+```
+
+Playlist: Why Is It Like That? · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
