@@ -18,3 +18,4 @@ Each fight ends with "Comment who fights next". Next fight = the most-requested 
 | Fight | Matchup | Winner | How |
 |---|---|---|---|
 | 1 | Sir Nugget Von Crunch vs Toastzilla | Sir Nugget | Took the first toast missile, healed in ranch, dodged two shots until Toastzilla overheated, then hit his off switch with the toothpick. Cliffhanger: a ketchup bottle appears (his fear) and Toastzilla reboots. |
+| 2 | Pigeon Prime vs Burrito Bandit | Pigeon Prime | Pigeon's 30-foot steal power targeted Bandit ("You're food"). Bandit fled to a gas station and unrolled into a lasso, wrapping the pigeon, but the lasso was tortilla: the pigeon ate his way out. Cliffhanger: Grandma Gigabyte shows up for the $7 Bandit owes her since 1998 and chases him. |

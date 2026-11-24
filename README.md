@@ -25,6 +25,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v11_dog_credit.mp4](videos/v11_dog_credit.mp4) | Storytime split-screen | My Dog Got His Own Credit Card (storytime + plinko) | 23 s | [vertical](thumbnails/v11_dog_credit_vertical.png) | [title + description](uploads/v11_dog_credit.md) |
 | [v12_stop_sign.mp4](videos/v12_stop_sign.mp4) | Why is X shaped/made like that | Why Are Stop Signs Octagons (and Why Were They Yellow?) | 33 s | [vertical](thumbnails/v12_stop_sign_vertical.png) | [title + description](uploads/v12_stop_sign.md) |
 | [v13_lie_battery.mp4](videos/v13_lie_battery.mp4) | What if hypothetical | What If Every Lie Drained 10% of Your Phone Battery? | 28 s | [vertical](thumbnails/v13_lie_battery_vertical.png) | [title + description](uploads/v13_lie_battery.md) |
+| [v14_fight2.mp4](videos/v14_fight2.mp4) | Who would win | Who Would Win, Fight 2: Pigeon Prime vs Burrito Bandit | 29 s | [vertical](thumbnails/v14_fight2_vertical.png) | [title + description](uploads/v14_fight2.md) |
 
 ## Channel
 - Name: **Zero IQ Club**

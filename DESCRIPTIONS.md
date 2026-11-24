@@ -422,3 +422,28 @@ How fast would YOUR phone die? 🔋 What's the first lie you'd tell? 👇
 Playlist: What If · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 18. Who Would Win, Fight 2: Pigeon Prime vs Burrito Bandit
+
+Video: [videos/v14_fight2.mp4](videos/v14_fight2.mp4) · Thumbnails: [vertical](thumbnails/v14_fight2_vertical.png), [16:9](thumbnails/v14_fight2_16x9.png)
+
+**Title**
+```
+Pigeon CEO vs Burrito Cowboy: Who Wins? 🐦🌯
+```
+
+**Description**
+```
+Fight 2 of the Zero IQ Club tournament: Pigeon Prime steals any food within 30 feet. Burrito Bandit IS food. 🌯
+Then Grandma Gigabyte shows up for her $7.
+#shorts #whowouldwin #animation #funny #cartoon
+```
+
+**Pinned comment**
+```
+Who fights next? Drop the matchup 👇 (Toastzilla vs Microwave Monk?)
+```
+
+Playlist: Who Would Win · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
