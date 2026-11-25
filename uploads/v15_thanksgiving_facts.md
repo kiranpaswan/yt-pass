@@ -23,7 +23,7 @@ Which fact is the MOST real? 🦃 Drop a fake Thanksgiving fact for the next one
 
 **Playlist:** Cursed Facts
 
-**Related video:** 100% Real Facts About Your Wi-Fi (not real) (uploads/v1_wifi_facts.md)
+**Related video:** 100% Real Facts About Wi-Fi (Not Real) (uploads/v1_wifi_facts.md)
 
 **Settings**
 - Audience: No, it's not made for kids
