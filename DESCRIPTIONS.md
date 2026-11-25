@@ -447,3 +447,28 @@ Who fights next? Drop the matchup 👇 (Toastzilla vs Microwave Monk?)
 Playlist: Who Would Win · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 19. 100% Real Thanksgiving Facts (not real)
+
+Video: [videos/v15_thanksgiving_facts.mp4](videos/v15_thanksgiving_facts.mp4) · Thumbnails: [vertical](thumbnails/v15_thanksgiving_facts_vertical.png), [16:9](thumbnails/v15_thanksgiving_facts_16x9.png)
+
+**Title**
+```
+100% Real Thanksgiving Facts (not real) 🦃
+```
+
+**Description**
+```
+The turkey was invented in 1987 as a backup chicken. Cranberry sauce is a can that learned to stand up. 100% real facts (not real). 🦃
+Happy Thanksgiving from the Zero IQ Club.
+#shorts #thanksgiving #funny #animation #cursedfacts
+```
+
+**Pinned comment**
+```
+Which fact is the MOST real? 🦃 Drop a fake Thanksgiving fact for the next one 👇
+```
+
+Playlist: Cursed Facts · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---

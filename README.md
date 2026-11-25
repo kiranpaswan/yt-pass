@@ -26,6 +26,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v12_stop_sign.mp4](videos/v12_stop_sign.mp4) | Why is X shaped/made like that | Why Are Stop Signs Octagons (and Why Were They Yellow?) | 33 s | [vertical](thumbnails/v12_stop_sign_vertical.png) | [title + description](uploads/v12_stop_sign.md) |
 | [v13_lie_battery.mp4](videos/v13_lie_battery.mp4) | What if hypothetical | What If Every Lie Drained 10% of Your Phone Battery? | 28 s | [vertical](thumbnails/v13_lie_battery_vertical.png) | [title + description](uploads/v13_lie_battery.md) |
 | [v14_fight2.mp4](videos/v14_fight2.mp4) | Who would win | Who Would Win, Fight 2: Pigeon Prime vs Burrito Bandit | 29 s | [vertical](thumbnails/v14_fight2_vertical.png) | [title + description](uploads/v14_fight2.md) |
+| [v15_thanksgiving_facts.mp4](videos/v15_thanksgiving_facts.mp4) | Cursed facts | 100% Real Thanksgiving Facts (not real) | 31 s | [vertical](thumbnails/v15_thanksgiving_facts_vertical.png) | [title + description](uploads/v15_thanksgiving_facts.md) |
 
 ## Channel
 - Name: **Zero IQ Club**
