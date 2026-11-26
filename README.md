@@ -27,6 +27,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v13_lie_battery.mp4](videos/v13_lie_battery.mp4) | What if hypothetical | What If Every Lie Drained 10% of Your Phone Battery? | 28 s | [vertical](thumbnails/v13_lie_battery_vertical.png) | [title + description](uploads/v13_lie_battery.md) |
 | [v14_fight2.mp4](videos/v14_fight2.mp4) | Who would win | Who Would Win, Fight 2: Pigeon Prime vs Burrito Bandit | 29 s | [vertical](thumbnails/v14_fight2_vertical.png) | [title + description](uploads/v14_fight2.md) |
 | [v15_thanksgiving_facts.mp4](videos/v15_thanksgiving_facts.mp4) | Cursed facts | 100% Real Thanksgiving Facts (not real) | 31 s | [vertical](thumbnails/v15_thanksgiving_facts_vertical.png) | [title + description](uploads/v15_thanksgiving_facts.md) |
+| [v16_pov_last_tv.mp4](videos/v16_pov_last_tv.mp4) | POV first-person comedy | POV: You're the Last TV on Black Friday | 27 s | [vertical](thumbnails/v16_pov_last_tv_vertical.png) | [title + description](uploads/v16_pov_last_tv.md) |
 
 ## Channel
 - Name: **Zero IQ Club**

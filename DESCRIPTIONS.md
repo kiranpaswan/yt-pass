@@ -472,3 +472,28 @@ Which fact is the MOST real? 🦃 Drop a fake Thanksgiving fact for the next one
 Playlist: Cursed Facts · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 20. POV: You're the Last TV on Black Friday
+
+Video: [videos/v16_pov_last_tv.mp4](videos/v16_pov_last_tv.mp4) · Thumbnails: [vertical](thumbnails/v16_pov_last_tv_vertical.png), [16:9](thumbnails/v16_pov_last_tv_16x9.png)
+
+**Title**
+```
+POV: You're the Last TV on Black Friday 📺
+```
+
+**Description**
+```
+500 people. One TV. A dad knee-slides, a pigeon CEO tries to acquire it, then Grandma shows up with a 90% off coupon. 📺
+Now it plays cat slideshows every single night.
+#shorts #blackfriday #pov #funny #animation
+```
+
+**Pinned comment**
+```
+What's the worst thing YOU fought for on Black Friday? 🛒👇
+```
+
+Playlist: POV · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
