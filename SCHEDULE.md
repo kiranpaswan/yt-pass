@@ -23,3 +23,4 @@ Fight 1 (Sir Nugget vs Toastzilla) should go out before Part 1, which continues 
 | Tue 1 Dec | [v14_fight2.mp4](videos/v14_fight2.mp4) | Who would win | Pigeon CEO vs Burrito Cowboy: Who Wins? 🐦🌯 |
 | Thu 26 Nov (Thanksgiving, extra upload) | [v15_thanksgiving_facts.mp4](videos/v15_thanksgiving_facts.mp4) | Cursed facts | 100% Real Thanksgiving Facts (not real) 🦃 |
 | Fri 27 Nov (Black Friday, extra upload) | [v16_pov_last_tv.mp4](videos/v16_pov_last_tv.mp4) | POV | POV: You're the Last TV on Black Friday 📺 |
+| Wed 2 Dec | [v17_cup_quiz.mp4](videos/v17_cup_quiz.mp4) | Quiz | Only 1% Know Which Cup Fills First 🥤 |
