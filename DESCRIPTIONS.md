@@ -497,3 +497,28 @@ What's the worst thing YOU fought for on Black Friday? 🛒👇
 Playlist: POV · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 21. Quiz: Which Cup Fills Up First? (answer: cup 5)
+
+Video: [videos/v17_cup_quiz.mp4](videos/v17_cup_quiz.mp4) · Thumbnails: [vertical](thumbnails/v17_cup_quiz_vertical.png), [16:9](thumbnails/v17_cup_quiz_16x9.png)
+
+**Title**
+```
+Only 1% Know Which Cup Fills First 🥤
+```
+
+**Description**
+```
+Water pours into cup 1. One pipe is blocked. Which cup fills up first? Answer at the end. 🥤
+Sir Nugget explains it step by step.
+#shorts #quiz #brainteaser #puzzle #animation
+```
+
+**Pinned comment**
+```
+Be honest: did you pick cup 2? 😅 Which number did you say?
+```
+
+Playlist: Quizzes · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---

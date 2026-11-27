@@ -28,6 +28,7 @@ Short vertical videos (1080x1920) for YouTube Shorts / Reels / TikTok.
 | [v14_fight2.mp4](videos/v14_fight2.mp4) | Who would win | Who Would Win, Fight 2: Pigeon Prime vs Burrito Bandit | 29 s | [vertical](thumbnails/v14_fight2_vertical.png) | [title + description](uploads/v14_fight2.md) |
 | [v15_thanksgiving_facts.mp4](videos/v15_thanksgiving_facts.mp4) | Cursed facts | 100% Real Thanksgiving Facts (not real) | 31 s | [vertical](thumbnails/v15_thanksgiving_facts_vertical.png) | [title + description](uploads/v15_thanksgiving_facts.md) |
 | [v16_pov_last_tv.mp4](videos/v16_pov_last_tv.mp4) | POV first-person comedy | POV: You're the Last TV on Black Friday | 27 s | [vertical](thumbnails/v16_pov_last_tv_vertical.png) | [title + description](uploads/v16_pov_last_tv.md) |
+| [v17_cup_quiz.mp4](videos/v17_cup_quiz.mp4) | Brain rot quiz | Quiz: Which Cup Fills Up First? (answer: cup 5) | 25 s | [vertical](thumbnails/v17_cup_quiz_vertical.png) | [title + description](uploads/v17_cup_quiz.md) |
 
 ## Channel
 - Name: **Zero IQ Club**
