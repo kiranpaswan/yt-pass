@@ -522,3 +522,28 @@ Be honest: did you pick cup 2? 😅 Which number did you say?
 Playlist: Quizzes · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
 
 ---
+
+## 22. Zero IQ Club: The Kitchen Wars, Part 4 (Lord Leftover)
+
+Video: [videos/v18_kitchen_wars_4.mp4](videos/v18_kitchen_wars_4.mp4) · Thumbnails: [vertical](thumbnails/v18_kitchen_wars_4_vertical.png), [16:9](thumbnails/v18_kitchen_wars_4_16x9.png)
+
+**Title**
+```
+The Kitchen Wars Part 4: Lord Leftover 🦃👑
+```
+
+**Description**
+```
+Thanksgiving is over. The fridge opens. A leftover turkey in a foil cape takes the top shelf, and Ketchup likes him. 🦃
+Then Toastzilla plugs back in... Part 5 tomorrow.
+#shorts #animation #funny #cartoon #thanksgiving
+```
+
+**Pinned comment**
+```
+Who rules the fridge: Lord Leftover or Toastzilla? 🦃🍞👇
+```
+
+Playlist: The Kitchen Wars · Publish: 18:00 to 21:00 German time (12:00 to 15:00 US Eastern)
+
+---
